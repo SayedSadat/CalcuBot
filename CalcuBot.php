@@ -1,5 +1,5 @@
 <?php
-define('BOT_TOKEN', 'CHANGE_THIS');
+define('BOT_TOKEN', '350145772:AAFyNrniMWL9FAZCL5_MwcliTVtHfAqMX14');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 class curl
